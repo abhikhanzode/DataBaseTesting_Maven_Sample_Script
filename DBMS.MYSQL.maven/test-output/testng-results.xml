@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1354" started-at="2020-09-18T08:26:54 IST" finished-at="2020-09-18T08:26:55 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1354" started-at="2020-09-18T08:26:54 IST" finished-at="2020-09-18T08:26:55 IST">
+      <class name="DBMS.MYSQL.maven.DBMS.MYSQL.maven.Student">
+        <test-method status="PASS" signature="setUP_Database()[pri:0, instance:DBMS.MYSQL.maven.DBMS.MYSQL.maven.Student@131276c2]" name="setUP_Database" is-config="true" duration-ms="1170" started-at="2020-09-18T08:26:54 IST" finished-at="2020-09-18T08:26:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP_Database -->
+        <test-method status="PASS" signature="InserData()[pri:1, instance:DBMS.MYSQL.maven.DBMS.MYSQL.maven.Student@131276c2]" name="InserData" duration-ms="99" started-at="2020-09-18T08:26:55 IST" finished-at="2020-09-18T08:26:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- InserData -->
+        <test-method status="PASS" signature="ViewData()[pri:3, instance:DBMS.MYSQL.maven.DBMS.MYSQL.maven.Student@131276c2]" name="ViewData" duration-ms="28" started-at="2020-09-18T08:26:55 IST" finished-at="2020-09-18T08:26:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ViewData -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:DBMS.MYSQL.maven.DBMS.MYSQL.maven.Student@131276c2]" name="tearDown" is-config="true" duration-ms="3" started-at="2020-09-18T08:26:55 IST" finished-at="2020-09-18T08:26:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DBMS.MYSQL.maven.DBMS.MYSQL.maven.Student -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
